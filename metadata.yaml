@@ -1,0 +1,26 @@
+_repo: Jokikylan-pojat_66165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mustasalo, Aarne
+    alias: Nurmio, Heikki
+    birthdate: 1887
+    deathdate: 1947
+    gutenberg_agent_id: '53663'
+    url: http://www.gutenberg.org/2009/agents/53663
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_Nurmio
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66165'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Finland -- Juvenile fiction'
+- GITenberg
+title: Jokikylän pojat
+url: http://www.gutenberg.org/ebooks/66165
